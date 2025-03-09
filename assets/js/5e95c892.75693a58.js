@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkislanddefense_guide=self.webpackChunkislanddefense_guide||[]).push([[647],{8122:(e,s,d)=>{d.r(s),d.d(s,{default:()=>l});d(6540);var n=d(4164),r=d(1082),u=d(204),a=d(2831),c=d(1410),i=d(4848);function l(e){return(0,i.jsx)(r.e3,{className:(0,n.A)(u.G.wrapper.docsPages),children:(0,i.jsx)(c.A,{children:(0,a.v)(e.route.routes)})})}}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkislanddefense_guide=self.webpackChunkislanddefense_guide||[]).push([[903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/islanddefenseguide/blog","blogTitle":"Blog","authorsListPath":"/islanddefenseguide/blog/authors"}')}}]);
